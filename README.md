@@ -8,7 +8,7 @@ Wifi hacking tool using ESP8266 ( Evil-Twin method )
 <a><img title="Maintainence" src="https://img.shields.io/badge/Maintenance-Yes-blue.svg?style=for-the-badge"></a>
 </p>
 
-![logo](/Images/ZiFi.png)
+![logo](https://github.com/sabbirbbs/ZiFi/raw/main/Images/ZiFi.png)
 
 ## FEATURES :
 * [+] Deauth

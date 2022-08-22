@@ -3,7 +3,7 @@
 Wifi hacking tool using ESP8266 ( Evil-Twin method )
 
 <p align="center">
-<a href="https://github.com/sankethj/z-cam/"><img title="Tool" src="https://img.shields.io/badge/Tool-ZiFi-blue.svg?style=for-the-badge"></a>
+<a href="https://github.com/sankethj/ZiFi"><img title="Tool" src="https://img.shields.io/badge/Tool-ZiFi-blue.svg?style=for-the-badge"></a>
 <a><img title="Version" src="https://img.shields.io/badge/Version-1.0-blue.svg?style=for-the-badge"></a>
 <a><img title="Maintainence" src="https://img.shields.io/badge/Maintenance-Yes-blue.svg?style=for-the-badge"></a>
 </p>

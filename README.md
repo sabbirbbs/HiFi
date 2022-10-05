@@ -1,3 +1,4 @@
+#Not working yet(Need some modification/work to be done)
 # HiFi is just a simple modification of ZiFi to solve deauth problem by changing deauth packet to work on channel 1.Wish this will work for you.
 # ZiFi
 Wifi hacking tool using ESP8266 ( Evil-Twin method )
